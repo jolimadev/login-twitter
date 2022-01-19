@@ -1,6 +1,6 @@
 # Login-twitter
 
-I was bored so i just practicing a little of pure CSS and made a : Log-in of twitter, it with html & css
+I was bored so i just practicing a little of pure CSS and made a : Log-in of twitter(made with html & css)
 
 
 ---------------
